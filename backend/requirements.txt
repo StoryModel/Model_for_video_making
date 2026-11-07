@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+sqlalchemy
+moviepy
+opencv-python
+pillow
+numpy
+edge-tts>=7.2.0
+ffmpeg-python
+PyMuPDF
+python-docx
+aiofiles

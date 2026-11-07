@@ -1,0 +1,87 @@
+Open terminal and paste this line
+
+.\run_project.bat
+
+.
+.
+
+HOW TO RESET PROJECT IDS TO 1
+
+step 1 - CTRL + C
+
+step 2 - backend/data/projects.db
+
+step 3 - Delete outputs folder contents: backend/outputs/
+
+step 4 - Restart backend in short run this command ( .\run_project.bat )
+
+.
+.
+HOW TO RESET PROJECT IDS TO 1
+
+If you REALLY want:
+
+Project ID: 1
+Project ID: 2
+Project ID: 3
+
+again from start:
+
+STEP 1
+
+    Stop backend:
+
+    CTRL + C
+
+STEP 2
+
+    Delete:
+
+    backend/data/projects.db
+
+    FULLY delete the database file.
+
+STEP 3
+
+    Delete outputs folder contents:
+
+    backend/outputs/
+
+    (optional but recommended)
+
+STEP 4
+
+    Restart backend in short run this command ( .\run_project.bat )
+
+Voice
+
+Male mostly use voice:
+
+'en-US-AndrewMultilingualNeural' - Deep male voice
+'en-US-GuyNeural' - Young voice
+
+Male voice:
+| Voice Name                | Accent    | Quality / Personality                    |
+| ------------------------- | --------- | ---------------------------------------- |
+| `en-US-GuyNeural`         | US        | Friendly, balanced, natural conversation |
+| `en-US-DavisNeural`       | US        | Young, energetic, casual                 |
+| `en-US-TonyNeural`        | US        | Deep, confident, professional            |
+| `en-US-ChristopherNeural` | US        | Warm, mature narrator voice              |
+| `en-US-EricNeural`        | US        | Clear, modern, suitable for tutorials    |
+| `en-GB-RyanNeural`        | UK        | Professional British accent              |
+| `en-GB-ThomasNeural`      | UK        | Deep, formal British narration           |
+| `en-AU-WilliamNeural`     | Australia | Relaxed Australian accent                |
+| `en-IN-PrabhatNeural`     | India     | Natural Indian English male voice        |
+
+Female voice:
+| Voice Name             | Accent    | Quality / Personality                           |
+| ---------------------- | --------- | ----------------------------------------------- |
+| `en-US-JennyNeural`    | US        | Very natural, friendly, one of the most popular |
+| `en-US-AriaNeural`     | US        | Expressive, storytelling, podcasts              |
+| `en-US-AnaNeural`      | US        | Young, cheerful, energetic                      |
+| `en-US-EmmaNeural`     | US        | Professional and clear                          |
+| `en-US-MichelleNeural` | US        | Warm and conversational                         |
+| `en-GB-SoniaNeural`    | UK        | Elegant British narration                       |
+| `en-GB-LibbyNeural`    | UK        | Soft, friendly British accent                   |
+| `en-AU-NatashaNeural`  | Australia | Pleasant Australian accent                      |
+| `en-IN-NeerjaNeural`   | India     | Natural Indian English female voice             |
